@@ -1,24 +1,9 @@
-# README
+#FreeDoc Reserve ton Doc !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Exo Ruby on Rails :D
 
-Things you may want to cover:
+Tables : Doctor, Patient, Appointment, City, Specialty, JoinTableDoctorSpecialty.
 
-* Ruby version
+To try it: Download my repo, quick bundle install then enjoy running the seed.rb on rails by typing "rails db:seed" in your command line.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+By Anis Bouhouche.
