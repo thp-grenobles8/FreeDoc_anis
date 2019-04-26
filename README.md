@@ -1,4 +1,4 @@
-#FreeDoc Reserve ton Doc !
+#FreeDoc !
 
 Easy medical appointments for professionnals and individuals.
 
